@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is React?",
+    "options": [
+      "A library for building user interfaces",
+      "A framework for building user interfaces",
+      "A database management system",
+      "A programming language"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What does JSX stand for?",
+    "options": [
+      "JavaScript XML",
+      "Java Syntax Extension",
+      "JSON Exchange",
+      "JavaScript and XML"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the virtual DOM in React used for?",
+    "options": [
+      "To improve performance by updating the DOM efficiently",
+      "To create a separate DOM for server-side rendering",
+      "To handle authentication in React applications",
+      "To define styles for React components"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are React Hooks used for?",
+    "options": [
+      "To add state and lifecycle features to functional components",
+      "To connect React applications to a database",
+      "To create animations in React",
+      "To define routes in React applications"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which lifecycle method is invoked just before a component is unmounted and destroyed?",
+    "options": [
+      "componentWillUnmount",
+      "componentDidUnmount",
+      "componentWillDestroy",
+      "componentDidDestroy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the purpose of the 'key' prop in React lists?",
+    "options": [
+      "To uniquely identify elements and optimize rendering performance",
+      "To apply styling to list elements",
+      "To create a sorting order for the list",
+      "To set the initial state for list elements"
+    ],
+    "correctAnswer": 1
+  }
+]
